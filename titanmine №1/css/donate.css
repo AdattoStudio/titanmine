@@ -72,7 +72,7 @@ body {
 
 }
 
-.red_button1 {
+.red_button {
 	width: calc(30px + 40 * (100vw / 1200));
 	height: 5px;
 	background-color: #B80F0F;
@@ -80,7 +80,7 @@ body {
 	transition: ease 0.25s all;
 }
 
-.red_button1:hover {
+.red_button:hover {
 	background-color: #941313;
 }
 
